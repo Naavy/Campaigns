@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "First Campaign",
+    "keywords": ["fashion"],
+    "bidAmount": 100,
+    "campaignFund": 300,
+    "status": false,
+    "town": "New York",
+    "radius": 100
+  },
+  {
+    "id": 2,
+    "name": "Second Campaign",
+    "keywords": ["automotive"],
+    "bidAmount": 500,
+    "campaignFund": 100,
+    "status": true,
+    "town": "San Francisco",
+    "radius": 100
+  }
+]

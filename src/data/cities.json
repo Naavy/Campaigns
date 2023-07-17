@@ -1,0 +1,21 @@
+[
+  { "name": "New York", "id": 1 },
+  { "name": "Chicago", "id": 2 },
+  { "name": "Houston", "id": 3 },
+  { "name": "Phoenix", "id": 4 },
+  { "name": "Philadelphia", "id": 5 },
+  { "name": "San Antonio", "id": 6 },
+  { "name": "San Diego", "id": 7 },
+  { "name": "Dallas Texas", "id": 8 },
+  { "name": "Austin Texas", "id": 9 },
+  { "name": "Jacksonville", "id": 10 },
+  { "name": "San Jose", "id": 11 },
+  { "name": "Fort Worth", "id": 12 },
+  { "name": "Columbus", "id": 13 },
+  { "name": "Charlotte", "id": 14 },
+  { "name": "Indianapolis", "id": 15 },
+  { "name": "San Francisco", "id": 16 },
+  { "name": "Seattle", "id": 17 },
+  { "name": "Denver", "id": 18 },
+  { "name": "Oklahoma City", "id": 19 }
+]
